@@ -1,0 +1,52 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-weight: 700;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.a-center{
+    align-items: center;
+    justify-content: center;
+}
+
+.center{
+    text-align: center;
+}
+
+.main-title{
+    margin: 20px;
+}
+
+.presentacion{
+    margin-bottom: 40px;
+}
+
+.bordes{
+    border: 1px solid black;
+}
+
+.centrar{
+    width: 80vw;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex   ;
+}
+
+.formulario{
+    border: 1px solid black;
+    width: 40vw;
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
